@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="username_error" type="id">Please enter your username</item>
+    <item name="phone_error" type="id">Please enter your phone number</item>
+    <item name="password_error" type="id">Please enter your password</item>
+</resources>

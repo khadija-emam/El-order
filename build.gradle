@@ -37,5 +37,6 @@ ext{
     mockkVersion = '1.10.2'
     archTestingVersion = '2.0.0'
     glide = "4.11.0"
+    fragmentKtxVersion = '1.4.0'
 
 }
